@@ -3,7 +3,7 @@ This is a simple app that allows for testing and deploying Solidity smart contra
 
 ### Add a .env file in the root folder with the following:
 
-`MNEMONIC="<YOUR MNEMNIC PHRASE>"`
+`MNEMONIC="<YOUR MNEMONIC PHRASE>"`
 
 `INFURA_URL="https://goerli.infura.io/v3/<YOUR INFURA API KEY>"`
 
